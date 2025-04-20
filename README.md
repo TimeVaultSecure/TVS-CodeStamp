@@ -1,6 +1,6 @@
 # 🕓 TVS CodeStamp v2 – Public Time-Based Signing Protocol
 
-![TVS Banner](https://raw.githubusercontent.com/timevaultsecure/assets/main/tvs_codestamp_banner.png)
+![TVS Banner](https://github.com/TimeVaultSecure/assets/blob/main/tvs_codestamp_banner.png)
 
 TVS CodeStamp v2 is an open protocol and CLI toolset for creating and verifying public, cryptographically signed timestamps.
 
